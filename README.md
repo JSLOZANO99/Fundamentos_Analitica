@@ -4,7 +4,7 @@
     <img src="images/readme.jpg" alt="Course repository" width="600" style="max-width: 100%; height: auto;" />
 </p>
 
-Este repositorio contiene el material y código fuente para el curso de **Fundamentos de Estadística para Analítica de Datos**, perteneciente a la Maestría en Analítica de Datos de la Facultad de Ingeniería y Ciencias Básicas.
+aca Este repositorio contiene el material y código fuente para el curso de **Fundamentos de Estadística para Analítica de Datos**, perteneciente a la Maestría en Analítica de Datos de la Facultad de Ingeniería y Ciencias Básicas.
 
 ## 1. Descripción del curso
 
